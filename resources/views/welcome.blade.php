@@ -6,7 +6,7 @@
 
         <title>Laravel</title>
         <p>HOLA! BIENVENIDO A MI PROYECTO EN LARAVEL!</p>
-
+<p>Por favor logueate.</p>
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
 
